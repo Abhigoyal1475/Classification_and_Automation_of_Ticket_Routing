@@ -1,6 +1,10 @@
 # Application-of-NLP-in-Automated-Classification-of-ticket-routing
 
+![Ticket-Routing-Social](https://user-images.githubusercontent.com/94658560/235338436-579d028f-5366-4ab2-9c41-f9c23ccacec3.png)
+
 As an NLP expert, I am working on an exciting project that involves the automated classification of support tickets using NLP techniques. The goal of this project is to help organizations reduce the time and effort required to manually assign support tickets to the appropriate team for resolution.
+
+**Business Problem**
 
 The problem statement we are trying to address is that many organizations receive a high volume of support tickets from customers, and it can be challenging and time-consuming to categorize them accurately. This often leads to delays in resolving customer issues, which can negatively impact customer satisfaction rates.
 
@@ -15,8 +19,6 @@ During conversations, we use explicit and implicit rules to convey our ideas. Mo
 In this project, I learned how to apply various NLP techniques to generate insights from text data. I also identified problems associated with the dataset and leveraged multiple NLP and Deep Learning techniques to solve the problem. I was able to calculate the readability standard of texts, reading time per description, and the polarity of each description, which were useful insights.
 
 I converted plain text into a sequential numeric format by converting it to an embedding using pre-computed models so that it could be fed to my deep learning models. This project gave me the opportunity to experiment with multiple approaches and algorithms to arrive at the best solution given the limitations. Bi-Directional LSTM and Transformer layers gave the best results and reiterated the fact that words with context convey more than the words themselves. Although hybrid models like a combination of CNN and lstm/gru/bi-lstm can sometimes yield good results, they did not in this case. Lastly, I discovered that the ensemble of Bi-LSTM gave the best results, indicating that the synergy between resources can always yield better results than what can be achieved from a single good resource.
-
-**Business Problem**
 
 One of the key activities of any IT function is to keep the lights on and ensure that there is no impact on business operations. The Incident Management process is used to achieve this objective. An incident is an unplanned interruption or reduction in the quality of an IT service that affects the users and the business. The main goal of the Incident Management process is to provide quick fixes, workarounds, or solutions that resolve the interruption and restore the service to full capacity to prevent any business impact. Incidents are created by various business and IT users, end-users/vendors, ticketing systems, and integrated monitoring systems and tools. Assigning incidents to the appropriate person or unit in the support team is critical to providing improved user satisfaction while ensuring better allocation of support resources. In many IT organizations, the assignment of incidents to the appropriate IT groups is still a manual process. This process is time-consuming, requires human effort, and can lead to mistakes due to human errors. Misaddressing of incidents leads to ineffective resource consumption and increases the response and resolution times, resulting in poor customer service and user satisfaction.
 
