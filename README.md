@@ -1,4 +1,4 @@
-# Application-of-NLP-in-Automated-Classification-of-ticket-routing
+# Application_of_NLP_in_Automated_Classification_of_ticket_routing
 
 ![Ticket-Routing-Social](https://user-images.githubusercontent.com/94658560/235338436-579d028f-5366-4ab2-9c41-f9c23ccacec3.png)
 
