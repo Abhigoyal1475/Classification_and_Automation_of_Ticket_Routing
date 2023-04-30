@@ -1,5 +1,12 @@
 # Application-of-NLP-in-Automated-Classification-of-ticket-routing
 
+As an NLP expert, I am working on an exciting project that involves the automated classification of support tickets using NLP techniques. The goal of this project is to help organizations reduce the time and effort required to manually assign support tickets to the appropriate team for resolution.
+
+The problem statement we are trying to address is that many organizations receive a high volume of support tickets from customers, and it can be challenging and time-consuming to categorize them accurately. This often leads to delays in resolving customer issues, which can negatively impact customer satisfaction rates.
+
+To solve this problem, I am using NLP techniques such as text classification, sentiment analysis, and topic modeling to analyze the content of support tickets automatically. By analyzing the text and identifying key phrases and patterns, the system can classify the tickets and route them to the appropriate team for resolution.
+
+The benefits of this system are numerous, including reduced manual effort required, improved response times, and increased customer satisfaction rates. I am excited to see the impact that this project will have on the organizations that adopt it, and I am proud to be a part of this cutting-edge application of NLP in ticket routing.
 
 Natural Language Processing (NLP) is a subfield of artificial intelligence that helps computers understand human language. Using NLP, machines can make sense of unstructured data so that we can gain valuable insights.
 
